@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\obj\Debug\net9.0\CalcularAreaFiguras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\obj\Debug\net9.0\CalcularAreaFiguras.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\obj\Debug\net9.0\CalcularAreaFiguras.AssemblyInfo.cs
+C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\obj\Debug\net9.0\CalcularAreaFiguras.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\bin\Debug\net9.0\CalcularAreaFiguras.exe
+C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\bin\Debug\net9.0\CalcularAreaFiguras.deps.json
+C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\bin\Debug\net9.0\CalcularAreaFiguras.runtimeconfig.json
+C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\bin\Debug\net9.0\CalcularAreaFiguras.dll
+C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\bin\Debug\net9.0\CalcularAreaFiguras.pdb
+C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\obj\Debug\net9.0\CalcularAreaFiguras.dll
+C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\obj\Debug\net9.0\refint\CalcularAreaFiguras.dll
+C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\obj\Debug\net9.0\CalcularAreaFiguras.pdb
+C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\obj\Debug\net9.0\CalcularAreaFiguras.genruntimeconfig.cache
+C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\obj\Debug\net9.0\ref\CalcularAreaFiguras.dll
