@@ -12,3 +12,4 @@ C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\obj\Debug\net9.0\refint\Ca
 C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\obj\Debug\net9.0\CalcularAreaFiguras.pdb
 C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\obj\Debug\net9.0\CalcularAreaFiguras.genruntimeconfig.cache
 C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\obj\Debug\net9.0\ref\CalcularAreaFiguras.dll
+C:\Users\user\Desktop\Proyecto c#\CalcularAreaFiguras\obj\Debug\net9.0\CalcularAreaFiguras.sourcelink.json
