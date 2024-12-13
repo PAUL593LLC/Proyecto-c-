@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ClacularAreaFiguras
+namespace CalcularAreaFigurasgeometricas
 {
     class Program
     {
@@ -41,15 +41,15 @@ namespace ClacularAreaFiguras
                 switch (opcion)
                 {
                     case 1: // Cuadrado
-                        area = baseFigura * baseFigura; 
+                        area = baseFigura * baseFigura; // REALIZA EL CALCULO DEL AREA DE LA FIGURA
                         Console.WriteLine("El área del cuadrado es: " + area);
                         break;
                     case 2: // Rectángulo
-                        area = baseFigura * altura; 
+                        area = baseFigura * altura; // REALIZA EL CALCULO DEL AREA DE LA FIGURA
                         Console.WriteLine("El área del rectángulo es: " + area);
                         break;
                     case 3: // Triángulo
-                        area = (baseFigura * altura) / 2; 
+                        area = (baseFigura * altura) / 2; // REALIZA EL CALCULO DEL AREA DE LA FIGURA
                         Console.WriteLine("El área del triángulo es: " + area);
                         break;
                 }
