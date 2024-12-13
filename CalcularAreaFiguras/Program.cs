@@ -55,7 +55,7 @@ namespace ClacularAreaFiguras
                 }
 
                 Console.WriteLine("¿Desea calcular otra figura? (SI/NO)");
-                respuesta = Console.ReadLine().Trim(); 
+                respuesta = Console.ReadLine().Trim();
 
             } while (respuesta.Equals("SI", StringComparison.OrdinalIgnoreCase)); // Compara de forma insensible a mayúsculas y minúsculas
         }
